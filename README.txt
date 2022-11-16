@@ -11,4 +11,6 @@ The purpose behind this app is to just save my daily course goals.
 
 Check out the custom favicon *wink *wink
 
+Here you can see my project in action: https://ionut-course-goal-application.netlify.app/
+
 Hope you enjoy !!!
