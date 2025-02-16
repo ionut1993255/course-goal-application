@@ -9,7 +9,7 @@ The app was developed in React with the help of HTML5 & CSS3.
 
 The purpose behind this app is to just save my daily course goals.
 
-Check out the custom favicon *wink *wink
+Check out the custom favicon 😉
 
 Here you can see my project in action: https://ionut-course-goal-application.netlify.app/
 
